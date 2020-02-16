@@ -1,6 +1,6 @@
 # PyTorch bindings for Warp-ctc
 
-[![Build Status](https://travis-ci.org/SeanNaren/warp-ctc.svg?branch=pytorch_bindings)](https://travis-ci.org/SeanNaren/warp-ctc)
+[![Build Status](https://travis-ci.org/farisalasmary/warp-ctc.svg?branch=pytorch_bindings)](https://travis-ci.org/SeanNaren/warp-ctc)
 
 This is an extension onto the original repo found [here](https://github.com/baidu-research/warp-ctc).
 
